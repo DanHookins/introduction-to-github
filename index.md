@@ -1,5 +1,4 @@
 ---
-title: Welcome to my messy first beginnings in GitHub
+title: Welcome to my blog
 ---
-oops, looks like there's nothing here
----
+
